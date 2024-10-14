@@ -1,4 +1,4 @@
-# Scrape Product Tokopedia
+![image](https://github.com/user-attachments/assets/6c100649-e84c-4b09-8d51-9932435fc0d5)![image](https://github.com/user-attachments/assets/5430ae52-f199-4b8a-802a-a7d82376ba01)# Scrape Product Tokopedia
 
 This is a Streamlit application that allows users to search for products on Tokopedia by entering a keyword. The app utilizes the Tokopedia GraphQL API to fetch product data and displays relevant information.
 
@@ -35,3 +35,7 @@ streamlit run app.py
 ```
 
 You need to create the credentials.json file to send it to the spreadsheet.
+
+![image](https://github.com/user-attachments/assets/536d6eff-c051-4f50-8328-d30c43b45a54)
+![image](https://github.com/user-attachments/assets/15240732-c77d-40d2-900f-3d91f014e931)
+![image](https://github.com/user-attachments/assets/0aa592e8-c9e6-4833-8bf9-dbac9cc66843)
